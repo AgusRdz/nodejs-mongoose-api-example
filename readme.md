@@ -1,4 +1,4 @@
-### Basics
+### Basics
 - Run `npm run dev` to start the API
 - Rename `.env.example` to `.env` to set the environment variables
 
@@ -8,6 +8,6 @@
 - https://dzone.com/articles/how-to-develop-a-boilerplate-for-api-with-nodejs-e
 
 
-### Extras
+### Extras
 - https://github.com/booleanhunter/ReactJS-AdminLTE
 - https://bootswatch.com/
